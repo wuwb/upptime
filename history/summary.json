@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 61,
-    "timeDay": 61,
-    "timeWeek": 61,
-    "timeMonth": 61,
-    "timeYear": 61,
+    "time": 81,
+    "timeDay": 81,
+    "timeWeek": 81,
+    "timeMonth": 81,
+    "timeYear": 81,
     "dailyMinutesDown": {}
   },
   {
@@ -22,19 +22,19 @@
     "url": "https://blog.printlake.com",
     "icon": "https://favicons.githubusercontent.com/blog.printlake.com",
     "slug": "blog",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 1572,
-    "timeDay": 1572,
-    "timeWeek": 1572,
-    "timeMonth": 1572,
-    "timeYear": 1572,
+    "status": "up",
+    "uptime": "57.80%",
+    "uptimeDay": "57.80%",
+    "uptimeWeek": "57.80%",
+    "uptimeMonth": "57.80%",
+    "uptimeYear": "57.80%",
+    "time": 1693,
+    "timeDay": 1693,
+    "timeWeek": 1693,
+    "timeMonth": 1693,
+    "timeYear": 1693,
     "dailyMinutesDown": {
-      "2020-12-29": 0
+      "2020-12-29": 471
     }
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1966,
-    "timeDay": 1966,
-    "timeWeek": 1966,
-    "timeMonth": 1966,
-    "timeYear": 1966,
+    "time": 1458,
+    "timeDay": 1458,
+    "timeWeek": 1458,
+    "timeMonth": 1458,
+    "timeYear": 1458,
     "dailyMinutesDown": {}
   }
 ]
