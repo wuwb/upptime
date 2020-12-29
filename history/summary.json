@@ -42,17 +42,15 @@
     "slug": "secret-site",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.62%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1966,
     "timeDay": 1966,
     "timeWeek": 1966,
     "timeMonth": 1966,
     "timeYear": 1966,
-    "dailyMinutesDown": {
-      "2020-12-29": 5
-    }
+    "dailyMinutesDown": {}
   }
 ]
