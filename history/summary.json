@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 60,
-    "timeDay": 60,
-    "timeWeek": 60,
-    "timeMonth": 60,
-    "timeYear": 60,
+    "time": 61,
+    "timeDay": 61,
+    "timeWeek": 61,
+    "timeMonth": 61,
+    "timeYear": 61,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1857,
-    "timeDay": 1857,
-    "timeWeek": 1857,
-    "timeMonth": 1857,
-    "timeYear": 1857,
+    "time": 1627,
+    "timeDay": 1627,
+    "timeWeek": 1627,
+    "timeMonth": 1627,
+    "timeYear": 1627,
     "dailyMinutesDown": {}
   },
   {
@@ -40,19 +40,19 @@
     "url": "$SECRET_SITE",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "secret-site",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.62%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "time": 1966,
+    "timeDay": 1966,
+    "timeWeek": 1966,
+    "timeMonth": 1966,
+    "timeYear": 1966,
     "dailyMinutesDown": {
-      "2020-12-29": 0
+      "2020-12-29": 5
     }
   }
 ]
