@@ -6,7 +6,7 @@ repo: upptime # Your GitHub repository name
 sites:
   - name: Google
     url: https://www.google.com
-  - name Blog
+  - name: Blog
     url: https://blog.printlake.com
   - name: Secret Site
     url: $SECRET_SITE
