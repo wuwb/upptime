@@ -22,18 +22,19 @@
     "url": "https://blog.printlake.com",
     "icon": "https://favicons.githubusercontent.com/blog.printlake.com",
     "slug": "blog",
-    "status": "up",
-    "uptime": "63.96%",
-    "uptimeDay": "66.05%",
+    "status": "down",
+    "uptime": "64.73%",
+    "uptimeDay": "66.01%",
     "uptimeWeek": "64.81%",
-    "uptimeMonth": "63.96%",
-    "uptimeYear": "63.96%",
+    "uptimeMonth": "64.73%",
+    "uptimeYear": "64.73%",
     "time": 1854,
     "timeDay": 2410,
     "timeWeek": 1964,
     "timeMonth": 1854,
     "timeYear": 1854,
     "dailyMinutesDown": {
+      "2021-01-10": 1,
       "2021-01-09": 489,
       "2021-01-08": 619,
       "2021-01-07": 475,
@@ -53,9 +54,9 @@
     "url": "$SECRET_SITE",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "secret-site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -64,6 +65,8 @@
     "timeWeek": 1038,
     "timeMonth": 1110,
     "timeYear": 1110,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-01-10": 0
+    }
   }
 ]
